@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome!
 
-Hello!👋 My name is **Souleymane DIALLO**. I am from Senegal <img src="https://flagcdn.com/w320/sn.png" width="24" alt="🇸🇳">. <br>
+Hello!👋 My name is **Souleymane DIALLO**. I am from Senegal <img src="https://flagcdn.com/w320/sn.png" width="15" alt="🇸🇳">. <br>
 I have a huge interest in Software Engineering as well Cybersecurity!
 
 Currently studying Spring Boot, ethical hacking and being a successful Software Engineer.
