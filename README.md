@@ -10,7 +10,7 @@ Curretly Monitor at Amadou Mahtar MBOW University.
 I love to join different communities and competitions that involve creating something for the society!
 
 ### Skills:
-Software engineering | Full stack development | Project Management | Communication 
+Software engineering | Full stack development | Project Management 
 
 ### Technologies:
 
