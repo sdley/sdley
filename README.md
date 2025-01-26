@@ -5,7 +5,7 @@ I have a huge interest in Software Engineering as well as in Cybersecurity!
 
 Currently studying Spring Boot, ethical hacking and being a successful Software Engineer.
 
-Curretly Freelancer.
+Curretly pursuing an Engineer degree in Information Systems and Data Engineering at Amadou Makhtar Mbow University (Dakar, SENEGAL).
 
 I love to join different communities and competitions that involve creating something for the society!
 
