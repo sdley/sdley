@@ -3,7 +3,7 @@
 Hello!👋 My name is **Souleymane DIALLO**. <br>
 I have a huge interest in Software Engineering as well as in Cybersecurity and AI!
 
-Currently working on Electric Vehicle Routing Problem (EVRP) and a Queue Management System.
+Currently working on Electric Vehicle Routing Problem (EVRP).
 
 Curretly pursuing an Engineering degree in Information Systems and Data Engineering at Amadou Makhtar Mbow University (Dakar, SENEGAL <img src="https://flagcdn.com/w320/sn.png" width="15" alt="🇸🇳">).
 
@@ -49,7 +49,7 @@ Software engineering | Full stack development | Project Management
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning Spring Boot
-- 📫 How to reach me: sdley ([LinkedIn](https://www.linkedin.com/in/sdley/), [Website](https://sdley.github.io/contact), [sdley2020@gmail.com](mailto:sdley2020@gmail.com))
+- 📫 How to reach me: sdley ([LinkedIn](https://www.linkedin.com/in/sdley/), [Website](https://sdley.netlify.app/contact), [sdley2020@gmail.com](mailto:sdley2020@gmail.com))
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: What is the "Write Once, Run Anywhere" philosophy of Java?
    - Java's "Write Once, Run Anywhere" (WORA) philosophy means that Java code can run on any device with a Java Virtual Machine (JVM).
