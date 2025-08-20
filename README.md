@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome!
 
-Hello!👋 My name is **Souleymane DIALLO**. <br>
+Hello!👋 I'm **Souleymane DIALLO**. <br>
 I have a huge interest in Software Engineering as well as in Cybersecurity and AI!
 
 Currently working on Electric Vehicle Routing Problem (EVRP).
