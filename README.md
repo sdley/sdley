@@ -1,11 +1,13 @@
 ## Hi there 👋, Welcome!
 
 Hello!👋 I'm **Souleymane DIALLO**. <br>
-I have a huge interest in Software Engineering as well as in Cybersecurity and AI!
+I am a Software Engineer with a huge interrest in Cybersecurity and AI!
 
 Currently working on Electric Vehicle Routing Problem (EVRP).
 
-Curretly pursuing an Engineering degree in Information Systems and Data Engineering at Amadou Makhtar Mbow University (Dakar, SENEGAL <img src="https://flagcdn.com/w320/sn.png" width="15" alt="🇸🇳">).
+Curretly pursuing an Engineering degree (Master/Ing. MSc Eng.) in Information Systems and Data Engineering at Amadou Makhtar Mbow University (Dakar, SENEGAL <img src="https://flagcdn.com/w320/sn.png" width="15" alt="🇸🇳">).
+
+I am Kubernetes KCNA certified!
 
 I love to join different communities and competitions that involve creating something for the society!
 
@@ -48,7 +50,7 @@ Software engineering | Full stack development | Project Management
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Reinforcement Learning
 - 📫 How to reach me: sdley ([LinkedIn](https://www.linkedin.com/in/sdley/), [Website](https://sdley.netlify.app/contact), [sdley2020@gmail.com](mailto:sdley2020@gmail.com))
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: What is the "Write Once, Run Anywhere" philosophy of Java?
