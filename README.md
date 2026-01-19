@@ -5,9 +5,10 @@ I am a Software Engineer with a huge interrest in Cybersecurity and AI!
 
 Currently working on Electric Vehicle Routing Problem (EVRP).
 
-Curretly pursuing an Engineering degree (Master/Ing. MSc Eng.) in Information Systems and Data Engineering at Amadou Mahtar Mbow University (Dakar, SENEGAL <img src="https://flagcdn.com/w320/sn.png" width="15" alt="🇸🇳">).
+I hold an Engineering degree (Master/Ing. MSc Eng.) in Information Systems and Data Engineering from Amadou Mahtar Mbow University (Dakar, SENEGAL <img src="https://flagcdn.com/w320/sn.png" width="15" alt="🇸🇳">).
 
-I am Kubernetes and Cloud Native Associate (KCNA) certified engineer!
+> - I am a Kubernetes and Cloud Native Associate (KCNA) certified engineer!
+> - I am also a Github Copilot certified engineer!
 
 I love to join different communities and competitions that involve creating something for the society!
 
